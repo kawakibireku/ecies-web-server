@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhafin Kawakibi",
+  "license": "ISC",
+  "dependencies": {
+    "aes-js": "^3.1.1",
+    "body-parser": "^1.18.3",
+    "crypto-js": "^3.1.9-1",
+    "eccrypto": "^1.0.3",
+    "express": "^4.16.4",
+    "influx": "^5.0.7",
+    "standard-ecies": "^1.0.0"
+  }
+}
